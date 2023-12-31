@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicrosoftAzureFunctionInAspNetCoreWebAPI", "MicrosoftAzureFunctionInAspNetCoreWebAPI\MicrosoftAzureFunctionInAspNetCoreWebAPI.csproj", "{73A56C32-F7B1-4C4A-8D53-D511AA38FCBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftAzureFunctionInAspNetCoreWebAPI-BAL", "MicrosoftAzureFunctionInAspNetCoreWebAPI-BAL\MicrosoftAzureFunctionInAspNetCoreWebAPI-BAL.csproj", "{B0D65A1F-A30F-4DAA-B263-08532D7D456E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftAzureFunctionInAspNetCoreWebAPI-DAL", "MicrosoftAzureFunctionInAspNetCoreWebAPI-DAL\MicrosoftAzureFunctionInAspNetCoreWebAPI-DAL.csproj", "{94332569-3F90-45D7-A8E7-5AADC40BFE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A56C32-F7B1-4C4A-8D53-D511AA38FCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A56C32-F7B1-4C4A-8D53-D511AA38FCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A56C32-F7B1-4C4A-8D53-D511AA38FCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A56C32-F7B1-4C4A-8D53-D511AA38FCBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D65A1F-A30F-4DAA-B263-08532D7D456E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D65A1F-A30F-4DAA-B263-08532D7D456E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D65A1F-A30F-4DAA-B263-08532D7D456E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D65A1F-A30F-4DAA-B263-08532D7D456E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94332569-3F90-45D7-A8E7-5AADC40BFE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94332569-3F90-45D7-A8E7-5AADC40BFE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94332569-3F90-45D7-A8E7-5AADC40BFE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94332569-3F90-45D7-A8E7-5AADC40BFE52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD27282-FA89-4B26-8323-0F2ED24779A9}
+	EndGlobalSection
+EndGlobal
